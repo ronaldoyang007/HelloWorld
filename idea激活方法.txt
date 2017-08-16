@@ -1,0 +1,4 @@
+idea激活方法
+	a.到网站 http://idea.lanyus.com/ 获取注册码。
+	b.填入下面的license server:
+		http://intellij.mandroid.cn/ 或者 http://idea.imsxm.com/ 
